@@ -2,13 +2,13 @@
 
 A personal watch collection showcase for 'Maor's Watches' (השעונים של מאור). The brand centers around a curated, personal collection of watches, suggesting a passion-driven presentation with a collector's identity and pride. The vibe may lean toward elegance, craftsmanship, and timeless aesthetics typical of horology enthusiasts.
 
-Source: https://-e0043265.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את סודות ההורולוגיה — השעונים של מאור
 
-URL: https://-e0043265.zappy5.app
+URL: https://example.com
 Description: הצטרף למסע אל עולם השעונים של מאור, אוסף אישי נדיר של iw388105 ושעוני יוקרה לאספנים. חשוף פריטים וינטג&#39; מרהיבים והתחל לאצור את המורשת שלך עוד היום.
 
 גלה את סודות ההורולוגיה — השעונים של מאור
@@ -638,7 +638,7 @@ Jaeger-LeCoultre
 
 ## מדיניות פרטיות
 
-URL: https://-e0043265.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -905,7 +905,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-e0043265.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1181,7 +1181,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-e0043265.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1476,7 +1476,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה על פנייתך
 
-URL: https://-e0043265.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: השעונים של מאור - תודה על פנייתך
 
 תודה על פנייתך
