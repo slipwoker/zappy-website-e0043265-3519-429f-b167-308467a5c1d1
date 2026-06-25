@@ -1,0 +1,69 @@
+# השעונים של מאור — Generative Engine Optimization Map
+
+> A personal watch collection showcase for 'Maor's Watches' (השעונים של מאור). The brand centers around a curated, personal collection of watches, suggesting a passion-driven presentation with a collector's identity and pride. The vibe may lean toward elegance, craftsmanship, and timeless aesthetics typical of horology enthusiasts.
+
+---
+
+## Pages
+
+### בית
+https://-e0043265.zappy5.app
+הצטרף למסע אל עולם השעונים של מאור, אוסף אישי נדיר של iw388105 ושעוני יוקרה לאספנים. חשוף פריטים וינטג&#39; מרהיבים והתחל לאצור את המורשת שלך עוד היום.
+
+### תודה על פנייתך
+https://-e0043265.zappy5.app/thank-you
+השעונים של מאור - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e0043265.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e0043265.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e0043265.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e0043265.zappy5.app
+- Endpoint: https://-e0043265.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השעונים של מאור
+A personal watch collection showcase for 'Maor's Watches' (השעונים של מאור). The brand centers around a curated, personal collection of watches, suggesting a passion-driven presentation with a collector's identity and pride. The vibe may lean toward elegance, craftsmanship, and timeless aesthetics typical of horology enthusiasts.
+
+## Target Audience
+- אספנים נלהבים
+- קוני שעוני יוקרה
+- חובבי הורולוגיה
+
+## Industry
+Watch Collection / Horology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e0043265.zappy5.app/sitemap.xml
+- Robots: https://-e0043265.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e0043265.zappy5.app/llms-full.txt
